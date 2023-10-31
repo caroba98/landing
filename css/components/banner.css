@@ -1,0 +1,21 @@
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  overflow: hidden;
+  color: white;
+  background-image: url(/landing/images/background.png);
+  background-position: center;
+  height: 600px;
+  width: 100%;
+}
+
+.header {
+  width: 60%;
+  text-align: left;
+}
+
+.header p{
+  opacity: .7;
+  font-size: 20px;
+}
